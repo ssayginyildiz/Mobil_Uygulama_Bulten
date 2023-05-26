@@ -8,7 +8,7 @@ Tasarım Figma(UI) ve UX olmak üzere ikiye ayrılacak.
 
 
 UI
-- Figma
+- Figma => Eklentileri açıklama ekle?
 - HTML/CSS
 - Renkler
 - Tipografi
